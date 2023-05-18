@@ -1,0 +1,46 @@
+body {
+
+    background: rgb(153, 104, 185);
+    background: linear-gradient(90deg, rgba(153, 104, 185, 1) 0%, rgba(158, 50, 230, 1) 0%, rgba(151, 66, 207, 1) 35%, rgba(150, 25, 212, 1) 100%);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+#Outra-Cor {
+    color: rgb(0, 0, 0);
+
+}
+
+h1 {
+
+    border-style: ridge;
+    margin: 0%;
+    padding: 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+
+h3 {
+    border-style: dashed;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 1%;
+    color: rgb(0, 0, 0);
+
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #000000;
+}
+a:hover{
+    color: rgb(101, 198, 243);
+}
